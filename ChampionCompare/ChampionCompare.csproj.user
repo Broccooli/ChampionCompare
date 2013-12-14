@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>J:\C#\|sftp://panther.adelphi.edu:22/home/ta18789/LoLCompare/|ftp://panther.adelphi.edu:22/home/ta18789/LoLCompare/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://home.adelphi.edu/~ta18789/LolCompare/|http://home.adelphi.edu/~ta18789/LoLCompare/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

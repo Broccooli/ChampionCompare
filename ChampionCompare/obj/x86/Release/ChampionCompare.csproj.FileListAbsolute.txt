@@ -1,0 +1,15 @@
+J:\C#\ChampionCompare\ChampionCompare\bin\Release\ChampionCompare.exe
+J:\C#\ChampionCompare\ChampionCompare\bin\Release\ChampionCompare.pdb
+J:\C#\ChampionCompare\ChampionCompare\bin\Release\HtmlAgilityPack.dll
+J:\C#\ChampionCompare\ChampionCompare\bin\Release\HtmlAgilityPack.pdb
+J:\C#\ChampionCompare\ChampionCompare\bin\Release\HtmlAgilityPack.xml
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Release\ChampionCompare.MainForm.resources
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Release\ChampionCompare.Properties.Resources.resources
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Release\ChampionCompare.csproj.GenerateResource.Cache
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Release\ChampionCompare.exe
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Release\ChampionCompare.pdb
+J:\C#\ChampionCompare\ChampionCompare\bin\Release\ChampionCompare.exe.manifest
+J:\C#\ChampionCompare\ChampionCompare\bin\Release\ChampionCompare.application
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Release\ChampionCompare.exe.manifest
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Release\ChampionCompare.application
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Release\ChampionCompare.csprojResolveAssemblyReference.cache

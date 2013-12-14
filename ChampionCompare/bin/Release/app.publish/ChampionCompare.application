@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="ChampionCompare.application" version="1.0.0.0" publicKeyToken="94e1caff2a2ee0b4" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="ChampionCompare" asmv2:product="ChampionCompare" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="http://home.adelphi.edu/~ta18789/LoLCompare/ChampionCompare.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\ChampionCompare_1_0_0_0\ChampionCompare.exe.manifest" size="7401">
+      <assemblyIdentity name="ChampionCompare.exe" version="1.0.0.0" publicKeyToken="94e1caff2a2ee0b4" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>rdyUYZL3s0b1Oe8ngnD/DebqGFk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Taylor-PC\Taylor" issuerKeyHash="ac245300a3b68f4244b8a165ee6c98fc9d59fb86" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>zo9XqUqdWYUDAyU/VkUgWrApZtM=</DigestValue></Reference></SignedInfo><SignatureValue>Kc3Rh0E1yYl6CGbDaqSEuDo1B+G+c1UF5nGB6NcATetd9fqdQbZ/t1uaOWFG0N+vLs2nBkYFXNGR4q8EsXbGctmtf/knQ2mH+G4WKDwHP4FgBXTAS17GTBPvh7oBw0kR4GEBvcNnnfqLcRHhybvg7XtdpHYwDhaMBIxMwp0lkyg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rPQWyC4Kg0TuDxEUSsx42g0if2eQg62aGhG7lHcYXRwLzcXSxa/zfx0Pt6n2tpHvJEuoAx3/tENrF44vtSzxHK/0vGz9GAAtQoFsu5ULWKmQAUQTUmH+Km5SDoNliRgzOjrgbA6G8vp8sijw8Crb7z6ZwdAmPf2srfTHfnua69E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d36629b05a2045563f25030385599d4aa9578fce" Description="" Url=""><as:assemblyIdentity name="ChampionCompare.application" version="1.0.0.0" publicKeyToken="94e1caff2a2ee0b4" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Taylor-PC\Taylor</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>5edaMq825GtIRq6gFTKw7bh/mf0=</DigestValue></Reference></SignedInfo><SignatureValue>Op8+v8pZ4xYmY+Odh/kJfzKGTzd4DA9BhBWnRmXpdz5txGdf1kixu+zgjtsrctMYVLLy66Aa5URLYUTxzmiY6ENYJYla0JOMGPcdRCLTtxsonK8wOthspi2pHU1AppfBY36AD7X7a3GmkV6tMaeySMYKa/b3MH6zftz+Q369iHo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rPQWyC4Kg0TuDxEUSsx42g0if2eQg62aGhG7lHcYXRwLzcXSxa/zfx0Pt6n2tpHvJEuoAx3/tENrF44vtSzxHK/0vGz9GAAtQoFsu5ULWKmQAUQTUmH+Km5SDoNliRgzOjrgbA6G8vp8sijw8Crb7z6ZwdAmPf2srfTHfnua69E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQGU0C3ypY7rpDV2qKkohNCTANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAAVABhAHkAbABvAHIALQBQAEMAXABUAGEAeQBsAG8AcjAeFw0xMzExMjYyMTAyMTBaFw0xNDExMjcwMzAyMTBaMCsxKTAnBgNVBAMeIABUAGEAeQBsAG8AcgAtAFAAQwBcAFQAYQB5AGwAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCs9BbILgqDRO4PERRKzHjaDSJ/Z5CDrZoaEbuUdxhdHAvNxdLFr/N/HQ+3qfa2ke8kS6gDHf+0Q2sXji+1LPEcr/S8bP0YAC1CgWy7lQtYqZABRBNSYf4qblIOg2WJGDM6OuBsDoby+nyyKPDwKtvvPpnB0CY9/ayt9Md+e5rr0QIDAQABMA0GCSqGSIb3DQEBBQUAA4GBADZMFpsZXBoONOq98QglgLnuQC/d3+FIxesphDFUEEz6ffaGtLb/8S5WcXG0HxMQy25X6VWVO9Lo7ZheqA3ODu8QEx1A0QG+SICZlH/owG7HglWX0np5HVIw4sxWeaVnziMGp38LGA3MTqSBXGojQRTX+hB9l7tHUlQkHbnqpTqX</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

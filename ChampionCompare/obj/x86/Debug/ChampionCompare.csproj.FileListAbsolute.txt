@@ -1,0 +1,15 @@
+J:\C#\ChampionCompare\ChampionCompare\bin\Debug\ChampionCompare.exe
+J:\C#\ChampionCompare\ChampionCompare\bin\Debug\ChampionCompare.pdb
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Debug\ChampionCompare.MainForm.resources
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Debug\ChampionCompare.Properties.Resources.resources
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Debug\ChampionCompare.csproj.GenerateResource.Cache
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Debug\ChampionCompare.exe
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Debug\ChampionCompare.pdb
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Debug\ChampionCompare.csprojResolveAssemblyReference.cache
+J:\C#\ChampionCompare\ChampionCompare\bin\Debug\HtmlAgilityPack.dll
+J:\C#\ChampionCompare\ChampionCompare\bin\Debug\HtmlAgilityPack.pdb
+J:\C#\ChampionCompare\ChampionCompare\bin\Debug\HtmlAgilityPack.xml
+J:\C#\ChampionCompare\ChampionCompare\bin\Debug\ChampionCompare.exe.manifest
+J:\C#\ChampionCompare\ChampionCompare\bin\Debug\ChampionCompare.application
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Debug\ChampionCompare.exe.manifest
+J:\C#\ChampionCompare\ChampionCompare\obj\x86\Debug\ChampionCompare.application
